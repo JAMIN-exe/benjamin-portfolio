@@ -1,0 +1,5 @@
+# User-agent: * 
+User-agent: *
+Allow: /
+
+Sitemap: https://benjamintaiwodev.netlify.app
