@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
-import { projects } from "../../data/projects";
+import { projects } from "../../data/Projects";
 
 const Projects = () => {
   return (

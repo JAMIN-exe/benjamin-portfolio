@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { skills } from "../../data/skills";
+import { skills } from "../../data/Skills";
 const Skills = () => {
   return (
     <section id="skills" className="py-24 px-6 max-w-5xl mx-auto text-center">
